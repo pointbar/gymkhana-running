@@ -4,12 +4,12 @@
 - associations de l’ess ?
 - usagers citoyens (ce sont les utilisateurs)
 - développeurs d’appli
-- 
+
 ## Problèmes
 - les collectivités utilisent des méthodes lourdes
 - les citoyens sont mal consultés
 - les usagers sont frustrés
-- 
+ 
 ## Solutions d’aujourd’hui
 - conseil de quartier
 - hackaton pour les grandes collectivités
