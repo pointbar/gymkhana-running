@@ -1,0 +1,17 @@
+# Meteor packages used by this project, one per line.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+standard-app-packages
+iron:router
+chuangbo:marked
+insecure
+ian:bootstrap-3
+http
+pntbr:contribution
+pntbr:rss
+pntbr:github-md
+pntbr:github-repo
+pntbr:contribution-list
+pntbr:lean-canvas
