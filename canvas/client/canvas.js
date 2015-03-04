@@ -17,13 +17,13 @@ Meteor.startup(function () {
 
   canvas['1'].list = [
     {
-      title: "- collectivités locales et territoriales (ce sont nos clients)"
-    },
-    {
-      title: "associations de l’ess ?"
+      title: "collectivités locales et territoriales (ce sont nos clients)"
     },
     {
       title: "usagers citoyens (ce sont les utilisateurs)"
+    },
+    {
+      title: "développeurs d’appli (ce sont les réalisateurs)"
     }
   ];
 
