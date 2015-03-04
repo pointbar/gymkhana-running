@@ -1,78 +1,45 @@
-# Gymkhana
-
-Atelier de jeux citoyens pour co-construire vos idées innovantes.
-
-Le site est accessible en production :
-> [http://www.gymkhana.fr](http://www.gymkhana.fr).
-
-
-## Écrire une fiche d'atelier
-
-Créer vos textes en [markdown](http://fr.wikipedia.org/wiki) dans le dépot [gymkhana-contenu](https://github.com/gymkhana-fr/gymkhana-contenu)
-
-## Installation de gymkhana
-
-Gymkhana est accessible en ligne : [http://www.gymkhana.fr](http://www.gymkhana.fr)
-
-C'est un projet ouvert, tu peux donc sans état d'âme :
-
-* jouer à créer des idées pas innovantes
-* modifier le code pour présenter tes supports de cours
-* changer le design pour vendre des hackatons aux institutions
-* créer un dépot et présenter toutes les recettes de l'Élysée depuis le second empire.
-* tenter de gagner un startup-weekend
-
-Pour l'installer il te faudra mettre un peu les mains dans le camboui :
-
-Ouvre un terminal
-
-Si ce n'est déjà fait, installer [Meteor](http://meteor.com) :
-```bash
-$ curl https://install.meteor.com | /bin/sh
-```
-
-Pour installer gymkhana en local dans ton répertoire :
-```bash
-$ cd ~
-$ git clone https://github.com/gymkhana-fr/gymkhana.git
-$ cd gymkhana
-```
-
-Tape l'url > [http://localhost:3000](http://localhost:3000) dans ton navigateur.
-
-
-## Deployer votre site
-
-### Local
-Ouvrez votre terminal :
-```bash
-$ cd ~/gymkhana
-$ meteor
-```
-
-Tapez l'url > [http://localhost:3000](http://localhost:3000) dans votre navigateur.
-
-### Pré-production
-Ouvrez votre terminal :
-```bash
-$ cd ~/gymkhana
-$ meteor deploy multimezig.meteor.com
-```
-
-Ouvrez > http://multimezig.meteor.com dans votre navigateur.
-
-### Production
-Achetez un nom de domaine et configurer le CNAME pour le faire pointer vers origin.meteor.com.
-
-Ouvrez votre terminal :
-```bash
-$ cd ~/gymkhana
-$ meteor deploy http://www.multimezig.com
-```
-
-## Gérer les ressources github avec JQ
-
-> https://stedolan.github.io/jq/tutorial/
+## Audience
+- collectivités locales et territoriales (ce sont nos clients)
+- associations de l’ess ?
+- usagers citoyens (ce sont les utilisateurs)
+- développeurs d’appli
+## Problèmes
+- les collectivités utilisent des méthodes lourdes
+- les citoyens sont mal consultés
+- les usagers sont frustrés
+## Solutions d’aujourd’hui
+- conseil de quartier
+- hackaton pour les grandes collectivités
+- gros cahier des charges pour solliciter des sociétés de service
+## Idée de solution
+1 jour Gymkhana regroupant agents territoriaux et si possible des citoyens (jusqu’à 20 personnes)
+- avant la journée :  accord sur le but (et le sujet)
+- après la journée : fourniture d’une carte des impacts
+Tarif 5.000€ la journée
+## Impacts
+- les agents territoriaux possèdent de nouveaux outils pour définir les besoins des usagers
+- les responsables constatent une plus grande réactivité
+- les usagers sont plus impliqués
+## Stratégie d’adoption
+- un site one page public et référencé
+- une présence gymkhanienne dans les conférences et rencontres genre Moustic
+- des articles publiés sur gymkhana.fr
+## Valeur stratégique
+- Grâce à ces journées, Gymkhana est reconnu comme acteur de la libération des collectivités
+## Budget
+Pas grand chose :
+- temps passé à préparer l’offre
+- hébergement du site et de la page
+- matériel pour les journées
+- frais de déplacement
+## Mesures de comportement
+- dans la collectivité, le délai de prise de décision est réduit
+- le budget d’un projet lancé avec Gymkhana est plus faible que d’habitude pour ce type de projet
+- les usagers sont plus satisfaits que d’habitude
+## Mesures de succès
+- 4 gymkhanas organisés en 2015
+- 5 jours supplémentaires de conseil par effet de bord
+- une demande d’être formé à devenir animateur Gymkhana
 
 ## Copyright & License
 
