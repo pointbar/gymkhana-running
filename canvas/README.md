@@ -1,7 +1,6 @@
 
 ## Audience
-- collectivités locales et territoriales (ce sont nos clients)
-- associations de l’ess ?
+- collectivités locales et territoriales (ce sont nos clients), éventuellement des associations de l’ess
 - usagers citoyens (ce sont les utilisateurs)
 - développeurs d’appli
 
@@ -9,7 +8,7 @@
 - les collectivités utilisent des méthodes lourdes
 - les citoyens sont mal consultés
 - les usagers sont frustrés
- 
+
 ## Solutions d’aujourd’hui
 - conseil de quartier
 - hackaton pour les grandes collectivités
@@ -25,7 +24,7 @@ Tarif 5.000€ la journée
 - les agents territoriaux possèdent de nouveaux outils pour définir les besoins des usagers
 - les responsables constatent une plus grande réactivité
 - les usagers sont plus impliqués
- 
+
 ## Stratégie d’adoption
 - un site one page public et référencé
 - une présence gymkhanienne dans les conférences et rencontres genre Moustic
