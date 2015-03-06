@@ -1,0 +1,27 @@
+<template name="gallery">
+  <section class="screenshots" id="screenshots">
+    <div class="container-fluid">
+      {{#each grids}}
+      <div class="row">
+        <ul class="grid">
+          {{#each this}}
+          <li>
+            <figure>
+              <img src="/img/thumbnails/{{img}}" alt="{{title}}">
+              <figcaption>
+                <div class="caption-content">
+                  <a href="/img/large/{{img}}" class="single_image">
+                    <i class="fa fa-search"></i><br>
+                    <p>{{title}}</p>
+                  </a>
+                </div>
+              </figcaption>
+            </figure>
+          </li>
+          {{/each}}
+        </ul>
+      </div>
+      {{/each}}
+    </div>
+  </section>
+</template>
