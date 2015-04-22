@@ -3,19 +3,19 @@ items = {
       title: "Les premiers pas d'un voyage vers l'agilité",
       img: "premiers-pas-dune-aventure.jpg"
     },{
-      title: "Collaborer et co-construire avec les citoyens",
-      img: "collaborer-et-coconstruire.jpg"
-    },{
-      title: "Découvrir des idées nouvelles et les essayer",
-      img: "decouvrir-des-endroits-insolites.jpg"
+      title: "Voyager léger à la rencontre des citoyens",
+      img: "explorer-votre-inconnu.jpg"
     },{
       title: "Remplir la page blanche ensemble, collectivités et citoyens",
       img: "activer-page-blanche-ensemble.jpg"
+    },{
+      title: "Découvrir des idées nouvelles et les essayer",
+      img: "decouvrir-des-endroits-insolites.jpg"
     }
   ],
   bottom: [{
-      title: "Voyager léger à la rencontre des citoyens",
-      img: "explorer-votre-inconnu.jpg"
+      title: "Collaborer et co-construire avec les citoyens",
+      img: "collaborer-et-coconstruire.jpg"
     },{
       title: "Filtrer les idées pour ne garder que les bonnes",
       img: "laisser-infuser-ses-idees.jpg"
